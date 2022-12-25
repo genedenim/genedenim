@@ -6,7 +6,7 @@ genedenim/genedenim is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Also Here:
+Connect with me
  - LinkedIn: https://www.linkedin.com/in/jean-denis-pmp%C2%AE-322453142/
  - Kaggle: https://www.kaggle.com/genedenim
  
