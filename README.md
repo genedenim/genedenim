@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @genedenim also known as Jean
+- 👋 Hi, I’m Jean
 - 🌱 I’m currently learning Python, very new to it. More to come!
 
 <!---
